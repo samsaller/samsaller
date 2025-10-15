@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sam Saller</h1>
-<h3 align="center">17 y.o Full-stack developer</h3>
+<h3 align="center">18 y.o Full-stack developer</h3>
 
 # 💫 About Me:
 🌱 I’m currently learning 3D website developing
